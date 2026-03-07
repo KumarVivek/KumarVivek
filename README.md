@@ -48,7 +48,7 @@ At Microsoft, I lead a skilled team of content professionals respnsible for the 
 
 ## 📈 By the numbers
 
-- 🌍 **Led global teams** across the US, Canada, Eurpoe, and India
+- 🌍 **Led global teams** across the US, Canada, Europe, and India
 - 📚 **Millions of users** reached through documentation on Microsoft Learn
 - 💰 **Millions in support cost savings** from self-serve content strategies
 - 🤝 **Cross-functional partnerships** spanning Design, Engineering, Marketing, and Support
