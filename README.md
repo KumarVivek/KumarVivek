@@ -46,12 +46,12 @@ Matrixed Organizations, Cross-functional Collaboration, Data-Driven Decision Mak
 
 ---
 
-## 📈 By the numbers
+## 🌟 I am proud of
 
-- 🌍 **Led global teams** across the US, Canada, Europe, and India
-- 📚 **Millions of users** reached through documentation and training on Microsoft Learn
-- 💰 **Millions in support cost savings** from self-serve content strategies
-- 🤝 **Cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams
+- 🌍 **Directing high-performing, multi-regional teams** across the US, Canada, Europe, and India
+- 📚 **Impacting millions of users** through compelling documentation and training on Microsoft Learn
+- 💰 **Saving millions in support cost** by optimizing self-serve content ecosystems and reducing support dependency
+- 🤝 **Cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams to align product vision with user success
 
 ---
 
