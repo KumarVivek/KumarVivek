@@ -2,8 +2,6 @@
 
 **Director of Content @ Microsoft** | Greater Seattle Area
 
-I lead global content strategy for Microsoft's AI-powered enterprise platforms, helping millions of users succeed with Generative AI, Copilot, Dynamics 365, and Power Platform through world-class documentation and training.
-
 ---
 
 ## 🧠 What I do
