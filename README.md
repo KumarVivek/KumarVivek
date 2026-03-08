@@ -29,8 +29,9 @@ At Microsoft, I lead a team of skilled content professionals responsible for the
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kvivek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvivek/)<br/>
-[![X / Twitter](https://img.shields.io/badge/X-@vivek__msft-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/vivek_msft)<br/>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kvivek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvivek/)
+  
+- [![X](https://img.shields.io/badge/X-@vivek__msft-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/vivek_msft)<br/>
 
 ---
 
