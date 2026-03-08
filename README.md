@@ -18,34 +18,6 @@ At Microsoft, I lead a team of skilled content professionals responsible for the
 
 ---
 
-## 🛠️ My toolkit
-
-- **Content & Strategy**
-Content Strategy, Information Architecture, Content Governance, Content Operations, AI-Enhanced Content Experiences
-
-- **Technology**
-Generative AI (Copilot, Claude, Lovable), Azure, Dynamics 365, Power Platform, GitHub, Markdown
-
-- **Team & Leadership**
-Matrixed Organizations, Cross-functional Collaboration, Data-Driven Decision Making, Stakeholder Alignment, Global Team
-
-
----
-
-## 🚀 Career journey
-
-```
-2023 – Present  │  Director, Content @ Microsoft
-2020 – 2023     │  Principal Content Publishing Manager @ Microsoft
-2018 – 2020     │  Senior Content Publishing Manager @ Microsoft
-2008 – 2018     │  Technical Writer / Senior Programming Writer @ Microsoft
-2000 – 2008     │  Technical Writer / Senior Technical Writer @ various organizations
-```
-
-*20+ years of building content ecosystems for enterprise platforms.*
-
----
-
 ## 🌟 I am proud of
 
 - 🌍 **Directing high-performing, multi-regional teams** across the US, Canada, Europe, and India
