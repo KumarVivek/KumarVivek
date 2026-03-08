@@ -21,13 +21,13 @@ At Microsoft, I lead a skilled team of content professionals respnsible for the 
 ## 🛠️ My toolkit
 
 - **Content & Strategy**
-`Content Strategy` `Information Architecture` `Content Governance` `Content Operations` `Customer Journey Mapping` `AI-Enhanced Content Experiences`
+Content Strategy, Information Architecture, Content Governance, Content Operations, AI-Enhanced Content Experiences
 
 - **Technology**
-`Generative AI (Copilot, Claude, Lovable)` `Azure` `Dynamics 365` `Power Platform` `GitHub` `Markdown`
+Generative AI (Copilot, Claude, Lovable), Azure, Dynamics 365, Power Platform, GitHub, Markdown
 
-- **Leadership**
-`Global Team Leadership` `Matrixed Organizations` `Cross-functional Collaboration` `Data-Driven Decision Making` `Stakeholder Alignment`
+- **Team & Leadership**
+Matrixed Organizations, Cross-functional Collaboration, Data-Driven Decision Making, Stakeholder Alignment, Global Team
 
 
 ---
