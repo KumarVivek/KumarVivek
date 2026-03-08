@@ -8,9 +8,9 @@ I lead global content strategy for Microsoft's AI-powered enterprise platforms, 
 
 ## 🧠 What I do
 
-I sit at the intersection of **content strategy**, **AI**, and **enterprise technology**, translating complex technical capabilities into compelling, self-serve content experiences that drive product adoption and reduce customer friction at scale.
+I lead at the intersection of **content strategy**, **AI**, and **enterprise technology**, translating complex technical capabilities into compelling, self-serve, AI-enhanced content experiences that drive product adoption and reduce customer friction at scale.
 
-At Microsoft, I lead a skilled team of content professionals respnsible for the content vision and execution for:
+At Microsoft, I lead a team of skilled content professionals responsible for the vision and execution of technical content for:
 
 - 🤖 **Generative AI** products, such as [Agent 365](https://learn.microsoft.com/microsoft-agent-365) and [Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
 - ⚡ **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
@@ -49,17 +49,9 @@ Matrixed Organizations, Cross-functional Collaboration, Data-Driven Decision Mak
 ## 📈 By the numbers
 
 - 🌍 **Led global teams** across the US, Canada, Europe, and India
-- 📚 **Millions of users** reached through documentation on Microsoft Learn
+- 📚 **Millions of users** reached through documentation and training on Microsoft Learn
 - 💰 **Millions in support cost savings** from self-serve content strategies
-- 🤝 **Cross-functional partnerships** spanning Design, Engineering, Marketing, and Support
-
----
-
-## 🎓 Education and certificates
-
-- 🎓 Bachelors in Mathematics — Delhi University, India
-- 💻 Professional Diploma in Network-Centered Computing — NIIT, India
-- 🏅 Management Excellence Certification — Microsoft
+- 🤝 **Cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams
 
 ---
 
@@ -70,7 +62,6 @@ Matrixed Organizations, Cross-functional Collaboration, Data-Driven Decision Mak
 
 ---
 
-*"Knowledge is power and the bridge between what technology can do and what users can achieve."*
 
 
 <!--
