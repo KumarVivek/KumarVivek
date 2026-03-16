@@ -6,13 +6,13 @@
 
 ## 🧠 What I do
 
-I lead at the intersection of **content strategy**, **AI**, and **enterprise technology**, translating complex technical capabilities into compelling, self-serve, AI-enhanced content experiences that drive product adoption and reduce customer friction at scale.
-
 At Microsoft, I lead a team of skilled content professionals responsible for the vision and execution of technical content for:
 
 - 🤖 **Generative AI** products, such as [Agent 365](https://learn.microsoft.com/microsoft-agent-365) and [Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
 - ⚡ **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
 - 📊 **Enterprise SaaS CRM and ERP products**, such as [Dynamics 365](https://learn.microsoft.com/dynamics365/)
+
+I bridge content strategy, AI, and enterprise technology, transforming technical capability into experiences that scale, accelerate adoption, and remove friction before customers ever need to ask for help.
 
 ---
 
