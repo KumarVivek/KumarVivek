@@ -12,7 +12,7 @@ At Microsoft, I lead a team of skilled content professionals responsible for the
 - ⚡ **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
 - 📊 **Enterprise SaaS CRM and ERP products**, such as [Dynamics 365](https://learn.microsoft.com/dynamics365/)
 
-I bridge content strategy, AI, and enterprise technology, transforming technical capability into experiences that scale, accelerate adoption, and remove friction before customers ever need to ask for help.
+I connect content strategy, AI, and enterprise technology to turn complex capabilities into seamless, scalable experiences that accelerate adoption and reduce friction.
 
 ---
 
