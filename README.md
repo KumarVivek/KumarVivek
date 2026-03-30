@@ -8,7 +8,7 @@
 
 At Microsoft, I lead a team of skilled content professionals responsible for the vision and execution of technical content for:
 
-- 🤖 **Generative AI** products, such as [Agent 365](https://learn.microsoft.com/microsoft-agent-365) and [Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
+- 🤖 **Generative AI** products, such as [Agent 365](https://learn.microsoft.com/microsoft-agent-365), [Copilot Cowork](https://learn.microsoft.com/copilot/microsoft-365/cowork/), and [Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
 - ⚡ **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
 - 📊 **Enterprise SaaS CRM and ERP products**, such as [Dynamics 365](https://learn.microsoft.com/dynamics365/)
 
