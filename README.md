@@ -1,8 +1,6 @@
 ## Hi, I'm Vivek 👋
 
-**Director of Content @ Microsoft** | Greater Seattle Area
 
----
 
 ## 🧠 What I do
 
@@ -12,7 +10,7 @@ At Microsoft, I lead a team of skilled content professionals responsible for the
 - ⚡ **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
 - 📊 **Enterprise SaaS CRM and ERP products**, such as [Dynamics 365](https://learn.microsoft.com/dynamics365/)
 
-I connect content strategy, AI, and enterprise technology to turn complex capabilities into seamless, scalable experiences that accelerate adoption and reduce friction.
+Passionate about the intersection of AI, knowledge systems, and customer empowerment.
 
 ---
 
@@ -21,7 +19,7 @@ I connect content strategy, AI, and enterprise technology to turn complex capabi
 - 🌍 **Directing high-performing, multi-regional teams** across the US, Canada, Europe, and India
 - 📚 **Impacting millions of users** through compelling documentation and training on Microsoft Learn
 - 💰 **Saving millions in support cost** by optimizing self-serve content ecosystems and reducing support dependency
-- 🤝 **Cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams to align product vision with user success
+- 🤝 **Forging cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams to align product vision with user success
 
 ---
 
