@@ -1,27 +1,27 @@
 ## Hi, I'm Vivek!
 
-## 🧠 What I do
+## What I do
 
 At Microsoft, I lead a team of skilled content professionals responsible for the vision and execution of technical content for:
 
-- 🤖 **Generative AI** products, such as [Agent 365](https://learn.microsoft.com/microsoft-agent-365), [Copilot Cowork](https://learn.microsoft.com/copilot/microsoft-365/cowork/), and [Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
-- ⚡ **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
-- 📊 **Enterprise SaaS CRM and ERP products**, such as [Dynamics 365](https://learn.microsoft.com/dynamics365/)
+- **Generative AI** products, such as [Agent 365](https://learn.microsoft.com/microsoft-agent-365), [Copilot Cowork](https://learn.microsoft.com/copilot/microsoft-365/cowork/), and [Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
+- **Low-code/pro-code enterprise solutions**, such as [Power Platform](https://learn.microsoft.com/power-platform)
+- **Enterprise SaaS CRM and ERP products**, such as [Dynamics 365](https://learn.microsoft.com/dynamics365/)
 
 Passionate about the intersection of AI, knowledge systems, and customer empowerment.
 
 ---
 
-## 🌟 I am proud of
+## I am proud of
 
-- 🌍 **Directing high-performing, multi-regional teams** across the world
-- 📚 **Impacting millions of users** through compelling documentation and training on [Microsoft Learn](https://learn.microsoft.com)
-- 💰 **Saving millions in support cost** by optimizing self-serve content ecosystems and reducing support dependency
-- 🤝 **Forging cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams to align product vision with user success
+- **Directing high-performing, multi-regional teams** across the world
+- **Impacting millions of users** through compelling documentation and training on [Microsoft Learn](https://learn.microsoft.com)
+- **Saving millions in support cost** by optimizing self-serve content ecosystems and reducing support dependency
+- **Forging cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams to align product vision with user success
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-kvivek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvivek/)
   
