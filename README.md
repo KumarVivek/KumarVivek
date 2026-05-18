@@ -1,6 +1,4 @@
-## Hi, I'm Vivek 👋
-
-
+## Hi, I'm Vivek!
 
 ## 🧠 What I do
 
@@ -16,8 +14,8 @@ Passionate about the intersection of AI, knowledge systems, and customer empower
 
 ## 🌟 I am proud of
 
-- 🌍 **Directing high-performing, multi-regional teams** across the US, Canada, Europe, and India
-- 📚 **Impacting millions of users** through compelling documentation and training on Microsoft Learn
+- 🌍 **Directing high-performing, multi-regional teams** across the world
+- 📚 **Impacting millions of users** through compelling documentation and training on [Microsoft Learn](https://learn.microsoft.com)
 - 💰 **Saving millions in support cost** by optimizing self-serve content ecosystems and reducing support dependency
 - 🤝 **Forging cross-functional partnerships** spanning Design, Engineering, Marketing, and Support teams to align product vision with user success
 
